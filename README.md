@@ -219,3 +219,7 @@ npm run dev
 - [02.MSA템플릿 백엔드구성 및 실습.pdf](https://github.com/eGovFramework/egovframe-msa-edu/files/11084631/02.MSA._.pdf)
 - [03.MSA템플릿 프론트엔드구성 및 실습.pdf](https://github.com/eGovFramework/egovframe-msa-edu/files/11084632/03.MSA._.pdf)
 - [04.MSA템플릿 이벤트스트림구성 및 실습.pdf](https://github.com/eGovFramework/egovframe-msa-edu/files/11084633/04.MSA._.pdf)
+
+## 교육 자료
+
+- https://cottonpup.vercel.app/blog/%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-ESLint-%EC%99%80-Prettier-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
